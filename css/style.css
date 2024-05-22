@@ -1,0 +1,7 @@
+:root {
+    --fs-xl: 4rem;
+}
+
+.fs-8 {
+    font-size: var(--fs-xl);
+}
